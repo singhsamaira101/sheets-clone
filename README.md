@@ -1,7 +1,7 @@
 
 # Sheets Clone
 
-Sheets Clone is a web application that replicates the basic functionalities of MS Excel.
+Sheets Clone is a web application that replicates the basic functionalities of Google Sheets.
 This project was created as a way to demonstrate my skills in web development and showcase my ability to build complex applications.
 
 
