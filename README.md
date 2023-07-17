@@ -21,6 +21,6 @@ HTML, CSS, Javascript
 
 https://sheets-cloned.netlify.app/
 
-<img width="1440" alt="Screenshot 2023-07-11 at 1 54 59 AM" src="https://github.com/singhsamaira101/sheets-clone/assets/67760094/993fbba0-db6a-44cc-96c4-f4b91f6a6b45">
+
 
 
