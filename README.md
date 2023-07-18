@@ -5,7 +5,7 @@ Sheets Clone is a web application that replicates the basic functionalities of G
 This project was created as a way to demonstrate my skills in web development and showcase my ability to build complex applications.
 
 
-## Features
+## 🚀Features
 
 - ✏️ **Create and delete** - Create and Delete spreadsheets
 - 📑 **Cell formatting** - Bold, Italic, Underline, Text Color, Fill Color, Text Alignment	
@@ -13,11 +13,11 @@ This project was created as a way to demonstrate my skills in web development an
 - ⬆️ **Data Export** - Data can be exported in JSON format
 
 
-## Tech Stack
+## 💻Tech Stack
 HTML, CSS, Javascript
 
 
-## Demo
+## 🔗Demo
 
 https://sheets-cloned.netlify.app/
 
